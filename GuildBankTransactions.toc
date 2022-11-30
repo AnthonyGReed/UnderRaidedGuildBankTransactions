@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: Guild Bank Transactions
+## Author: Xrystal
+## Version: 1.01.00
+## Notes: Guild Bank Transaction Lister
+## RequiredDeps: Blizzard_GuildBankUI
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: GuildBankTransactionsHistory, GuildBankTransactionsTabs, GuildBankTransactionsMoney
+
+GuildBankTransactions.lua
